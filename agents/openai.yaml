@@ -1,0 +1,6 @@
+interface:
+  display_name: "Explain Actions"
+  short_description: "Understand commands, downloads, tools, and permissions"
+  default_prompt: "Use $explain-actions to explain what you will run or download before doing it."
+policy:
+  allow_implicit_invocation: true
