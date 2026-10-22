@@ -1,0 +1,14 @@
+{
+  "name": "explain-actions",
+  "description": "Explain proposed commands, tool calls, app launches, downloads, installations, and permission requests in plain language before execution.",
+  "source": "original",
+  "category": "personal",
+  "adaptations": [
+    "Independently written; conceptual references only, no upstream code or text bundled."
+  ],
+  "references": [
+    "https://github.com/github/awesome-copilot/blob/main/skills/noob-mode/SKILL.md",
+    "https://github.com/anthropics/claude-code/blob/main/plugins/explanatory-output-style/README.md"
+  ],
+  "created": "2026-10-22"
+}
